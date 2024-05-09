@@ -1,0 +1,15 @@
+
+  "tasks": [
+    {
+      "taskLabel": "task-posaenz",
+      "appliesTo": "posaenz.js",
+      "type": "launch"
+    },
+    {
+      "appliesTo": "posaenz.js",
+      "taskLabel": "task-posaenz",
+      "type": "launch"
+    }
+  ],
+  "version": "0.2.1"
+}

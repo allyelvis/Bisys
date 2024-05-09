@@ -1,0 +1,36 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "appliesTo": "posaenz",
+      "taskLabel": "task-posaenz",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-posaenz",
+      "appliesTo": "posaenz",
+      "type": "launch"
+    },
+    {
+      "appliesTo": "posaenz.js",
+      "taskLabel": "task-posaenz",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Restaurantmanagemnt",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Web1",
+      "appliesTo": "Web1.config",
+      "type": "launch"
+    },
+    
+    {
+      "taskLabel": "task-tasks.vs",
+      "appliesTo": "enc_temp_folder/4140dab35aa5e4b4931b2702186a718/tasks.vs.json",
+      "type": "launch"
+    }
+  ]
+}

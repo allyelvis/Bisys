@@ -1,0 +1,2 @@
+C:\Users\ZEBRA\source\repos\allyelvis\Restaurantmanagemnt\obj\x64\Debug\rstm.csproj.AssemblyReference.cache
+C:\Users\ZEBRA\source\repos\allyelvis\Restaurantmanagemnt\obj\x64\Debug\rstm.csproj.CoreCompileInputs.cache
